@@ -1,0 +1,11 @@
+{
+  "name": "udm-rsn",
+  "version": "0.10.0",
+  "description": "A module that return random strings",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suhail",
+  "license": "ISC"
+}
